@@ -1,0 +1,28 @@
+name: SparrowBlue
+favicon: null
+layout_spectrum: 0.11889313557185233
+typography_spectrum: 0.3227212892379612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8788136444054544
+  lightness: 0.3921145088970661
+  saturation: 0.181568190921098
+  rhythmicContrast: 0.834351098164916
+purpose: []
